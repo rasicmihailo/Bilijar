@@ -1,0 +1,78 @@
+﻿  stdafx.cpp
+  DImage.cpp
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(556): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(566): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(606): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(630): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(770): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(783): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(856): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(894): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(912): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(1829): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(1858): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(1876): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(2870): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(2995): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3001): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3010): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3012): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3021): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3057): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3061): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3083): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3086): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3097): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3137): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3337): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3348): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3352): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3532): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3536): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3544): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3552): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3565): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3582): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3586): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3734): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3762): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3773): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3774): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3788): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3807): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3825): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3836): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3846): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3873): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(3874): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(4091): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(4095): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(4101): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(4113): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(4142): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(4150): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(4167): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(4200): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(4234): warning C4312: 'type cast': conversion from 'int' to 'unsigned char *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(4347): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(4356): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(4361): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(4365): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\dimage.cpp(4415): warning C4312: 'type cast': conversion from 'int' to 'float *' of greater size
+  Kolokvijum2016.cpp
+  Kolokvijum2016Doc.cpp
+  Kolokvijum2016View.cpp
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\kolokvijum2016view.cpp(116): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\kolokvijum2016view.cpp(119): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\kolokvijum2016view.cpp(120): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\kolokvijum2016view.cpp(121): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\kolokvijum2016view.cpp(122): warning C4244: '=': conversion from 'double' to 'FLOAT', possible loss of data
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\kolokvijum2016view.cpp(159): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\kolokvijum2016view.cpp(160): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\kolokvijum2016view.cpp(162): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\kolokvijum2016view.cpp(163): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\kolokvijum2016view.cpp(166): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\rasicmihailo\desktop\bilijar (mfc - gdi)\kolokvijum2016\kolokvijum2016view.cpp(181): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MainFrm.cpp
+  Generating Code...
+  Kolokvijum2016.vcxproj -> C:\Users\rasicmihailo\Desktop\Bilijar (MFC - GDI)\x64\Debug\Kolokvijum2016.exe
